@@ -9,9 +9,9 @@
 6. Close the DPST switch connecting the alternator to supply.
 7. Vary DC excitation of alternator in steps to increase field voltage to its rated value.
 8. Observe the readings of voltmeter and ammeter.
-9 Store this data by clicking “Start Storing Data”
+9 Store this data by clicking "Start Storing Data"
 10. Go on repeating this procedure till sufficient readings are stored.
-11. Now display the data by clicking “Show data”. For Ex it will display data as shown.
+11. Now display the data by clicking "Show data". For Ex it will display data as shown.
 <center><img src="images/img3.png"title=""/></center>
 
 * Vfa=field voltage of alternator
@@ -20,7 +20,7 @@
 * Iin=input current of DC motor
 * Isc=short circuit current
 
-12. Now select one of the graph from available graphs and use “Generate graph” to plot the graph. For Ex.
+12. Now select one of the graph from available graphs and use "Generate graph" to plot the graph. For Ex.
 <center><img src="images/img4.png"title=""/></center>
 13. Slowly reduce the excitation and field rheostat of shunt motor to zero.
 14. Switch off supply.
