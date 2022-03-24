@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The frequency of an alternator at a given RPM is determined by",
+      "answers": {
+        "a": "number of turns of wire in the armature coil",
+        "b": "number of magnetic poles",
+        "c": "strength of the magnets used",
+        "d": "output voltage"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?",
+      "answers": {
+        "a": "it will remain unchanged",
+        "b": "it will decrease by approximately 3%",
+        "c": "it will increase",
+        "d": "it may increase or decrease"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Salient pole type rotors as compared to cylindrical pole type are",
+      "answers": {
+        "a": "larger in diameter and smaller in axial length",
+        "b": "smaller in diameter as well as axial length",
+        "c": "larger in diameter as well as axial length",
+        "d": "smaller in diameter and larger in axial length"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as",
+      "answers": {
+        "a": "asynchronous alternator (B)",
+        "b": "asynchronous motor",
+        "c": "synchronous motor",
+        "d": "synchronous alternator"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a generator designed for operation at 60 Hz is operated at 50 Hz",
+      "answers": {
+        "a": "operating voltage must be derated to (50/60) of its original value",
+        "b": "operating voltage must be derated to (50/60)2 of its original value",
+        "c": "kVA rating can be upgraded to (60/50) of the rated value",
+        "d": "the generator will not take any load."
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

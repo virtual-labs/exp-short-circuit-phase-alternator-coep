@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Maximum electric power output of a synchronous generator is",
+      "answers": {
+        "a": "Xs / VtEf",
+        "b": "VtEf / Xs",
+        "c": "E2f / Xs",
+        "d": "V2t / Xs"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become",
+      "answers": {
+        "a": "1/2",
+        "b": "1/3",
+        "c": "1/4",
+        "d": "1/5"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The armature reaction of an alternator will be completely magnetizing in case the load power factor is",
+      "answers": {
+        "a": "unity",
+        "b": "0.707",
+        "c": "zero lagging",
+        "d": "zero leading"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be",
+      "answers": {
+        "a": "4",
+        "b": "6",
+        "c": "12",
+        "d": "24"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Alternators used in aircraft systems usually have frequency of",
+      "answers": {
+        "a": "25 Hz",
+        "b": "50 Hz",
+        "c": "100 Hz",
+        "d": "400 Hz"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
